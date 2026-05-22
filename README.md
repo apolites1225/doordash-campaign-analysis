@@ -1,4 +1,4 @@
-# DoorDash Marketing Campaign Analysis
+# iFood Marketing Campaign Analysis
 **Excel-based customer segmentation and campaign performance study**
 
 ![Dashboard Preview](dashboard_preview2.png)
@@ -7,7 +7,7 @@
 
 ## Project Overview
 
-This project analyzes marketing campaign performance across a dataset of 2,205 DoorDash customers. The goal was to identify which customer segments respond best to campaigns, what drives total spend, and how future campaigns should be targeted for maximum impact.
+This project analyzes marketing campaign performance across a dataset of 2,205 iFood customers. The goal was to identify which customer segments respond best to campaigns, what drives total spend, and how future campaigns should be targeted for maximum impact.
 
 **Tools used:** Microsoft Excel (PivotTables, Power Pivot, Power Query, DAX, VBA, Slicers, Charts, Conditional Formatting)
 
@@ -91,7 +91,7 @@ Customers who accepted any campaign spent $937 on average vs. $422 for non-accep
 
 ## How to Use
 
-1. Download `DoorDash_Case_Study_Final.xlsm`
+1. Download `iFood_campaign_analysis.xlsm`
 2. Enable macros if prompted
 3. Navigate to the **Dashboard** tab
 4. Use the slicers to filter by Income Group, Age Group, Children at Home, or Education
