@@ -9,7 +9,7 @@
 
 This project analyzes marketing campaign performance across a dataset of 2,205 DoorDash customers. The goal was to identify which customer segments respond best to campaigns, what drives total spend, and how future campaigns should be targeted for maximum impact.
 
-**Tools used:** Microsoft Excel (PivotTables, Slicers, Charts, Conditional Formatting)
+**Tools used:** Microsoft Excel (PivotTables, Power Pivot, Power Query, DAX, VBA, Slicers, Charts, Conditional Formatting)
 
 ---
 
