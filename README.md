@@ -1,7 +1,7 @@
 # iFood Marketing Campaign Analysis
 **Excel-based customer segmentation and campaign performance study**
 
-![Dashboard Preview](dashboard_preview.png)
+![Dashboard Preview](dashboard_preview2.png)
 
 ---
 
