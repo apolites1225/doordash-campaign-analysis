@@ -71,6 +71,8 @@ This segment accepted Campaign 5 at 37.6% — the highest rate of any income/cam
 **5. Children at home significantly reduce spend**
 Customers with no children or teens at home averaged $1,056 in total spend vs. $433 for those with one and $223 for those with two — a 2.4x difference between child-free and one-child households.
 
+![Average Spend by Household Composition](Average_Spend_Household_Comp.png)
+
 **6. Wine and meat dominate the product mix**
 Wines represent 54.4% of average spend ($306), meat products 29.5% ($166). Together they account for 83.9% of all customer spending.
 
