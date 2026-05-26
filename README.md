@@ -56,7 +56,7 @@ All KPIs and charts update dynamically based on slicer selection.
 
 **1. Campaign 6 was the clear winner**
 Campaign 6 achieved a 15.4% acceptance rate — more than double the next best campaign (7.7%). The overall average across all campaigns was 7.6%.
-
+![Dashboard Preview](Acceptance Rate Bar Chart.png)
 **2. Campaign acceptors spend significantly more**
 Customers who accepted any campaign averaged $932 in total spend vs. $564 for all customers — a 65% difference.
 
